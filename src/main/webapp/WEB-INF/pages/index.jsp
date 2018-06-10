@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Maven + Spring MVC Web Project Example.. Devops Training 06/03/2018</h1>
+<h1>Maven + Spring MVC Web Project Example.. Devops Training 06/10/2018</h1>
  
 <h3>Message : ${message}</h3>
 <h3>Counter : ${counter}</h3>	
